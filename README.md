@@ -1,2 +1,2 @@
-# sikhaao
+# Learnit4mMe
 Educational website
