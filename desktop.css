@@ -1,0 +1,156 @@
+/* 
+   Author     : Shak Shek
+*/
+head
+{
+    
+}
+body
+{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: buttonface;
+    
+}
+
+/**For Signup validation**/
+.error
+{
+    display: none;
+    margin-left: 10px;
+}
+.error_show
+{
+    color: red;
+    margin-left: 10px;
+}
+input.invalid
+{
+    border:2px solid red;
+}
+input.valid
+{
+    border:2px solid red;
+    
+}
+.gbSearch
+{
+position: relative;
+align-items: center;
+justify-content: center;
+float: right;
+
+}
+
+
+/**
+#p1
+{
+   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+   font-size: 19px;
+}
+#p2
+{
+  font-family: "Tahoma", "Geneva", sans-serif;
+  font-size: 19px;
+}
+#p3
+{   //final 
+    font-family:  "Arial", "Helvetica", sans-serif;
+    font-size: 19px;
+}
+#p4
+{
+    font-family:   "Verdana", "Geneva", sans-serif;
+    font-size: 19px;
+}
+#p5
+{
+    font-family:   "Trebuchet MS", "Helvetica", sans-serif;
+    font-size: 19px;
+}
+
+
+
+img.one
+{
+   width: 200px;
+   height: 200px;
+   overflow: hidden;
+    
+}
+img.two
+{
+   width: 200px;
+   height: 200px;
+   overflow: hidden; 
+}
+img.three
+{
+   width: 200px;
+   height: 200px;
+   overflow: hidden; 
+}
+img.four
+{
+   width: 200px;
+   height: 200px;
+   overflow: hidden; 
+}
+img.five
+{
+   width: 200px;
+   height: 200px;
+    
+}
+img.six
+{
+   width: 200px;
+   height: 200px;
+    
+}
+**/
+
+/*Footer Styling Starts*/
+#footcontainer ul li
+{
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+    font-family:  "Tahoma", "Geneva", sans-serif;
+    font-size: 12px;
+    margin: 0 9px 0 0;
+}
+
+#login input
+{
+    text-decoration: none;
+}
+a:link
+{
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: none;
+}
+a:visited
+{
+    text-decoration: none;
+}
+a:active
+{
+    text-decoration: none;
+}
+
+
+
+#footcontainer>#copyright
+{
+    font-family: "Tahoma", "Geneva", sans-serif;
+    font-size: 13px;
+    text-align: right;
+}
+
+
+
+/*Footer Styling Ends*/
